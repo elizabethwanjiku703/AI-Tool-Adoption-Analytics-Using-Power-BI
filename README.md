@@ -21,7 +21,7 @@ An interactive Power BI dashboard analyzing global AI tool adoption trends acros
 
 ## 📈 Dashboard Preview
 
-![AI Tool Adoption Analytics Dashboard]([images/dashboard-screenshot.png](https://github.com/elizabethwanjiku703/AI-Tool-Adoption-Analytics-Using-Power-BI/blob/main/Dashbboard%20Overview.jpg))
+![AI Tool Adoption Analytics Dashboard](https://github.com/elizabethwanjiku703/AI-Tool-Adoption-Analytics-Using-Power-BI/blob/main/Dashbboard%20Overview.jpg)
 
 ### 🔗 Live Dashboard
 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWFkMGUyNmUtNzg2ZC00Y2NhLWJjZWQtMWNlNWU3ZTcxZDc4IiwidCI6ImJmZmI5NzQ4LTRhNTEtNDRjOC05MjBmLTkzOGFjNDc5NzFlNSJ9)**
