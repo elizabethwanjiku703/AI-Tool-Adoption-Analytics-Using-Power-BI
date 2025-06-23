@@ -48,10 +48,6 @@ Dataset: [Global Internet Adoption & Growth Analysis](https://www.kaggle.com/dat
 - Traditional industries are embracing AI for transformation
 - Geographic diversity shows global nature of AI revolution
 
-## 📱 Connect
-
-Feel free to connect with me on [LinkedIn](your-linkedin-profile) to discuss AI trends and data analytics!
-
 ---
 
 *Built with curiosity about global AI adoption trends* 🚀
